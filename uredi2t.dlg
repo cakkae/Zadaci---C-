@@ -1,0 +1,20 @@
+% uredi2t.C -o uredi2t
+% uredi2t <uredi2t.pod
+
+Uredjivanje niza celih brojeva:
+
+Pocetni   niz: 2 5 -3 7 -1 6 0 8 2 6 -2 2 6
+Rastuci   niz: -3 -2 -1 0 2 2 2 5 6 6 6 7 8
+Opadajuci niz: 8 7 6 6 6 5 2 2 2 0 -1 -2 -3
+
+Uredjivanje niza tacaka:
+
+Pocetni   niz: T(0,0) T(-2,-2) T(2,-3) T(3,3) T(3,2) T(1,1) T(-1,2)
+Rastuci   niz: T(0,0) T(1,1) T(-1,2) T(-2,-2) T(2,-3) T(3,2) T(3,3)
+Opadajuci niz: T(3,3) T(3,2) T(2,-3) T(-2,-2) T(-1,2) T(1,1) T(0,0)
+
+Uredjivanje niza parvougaonika:
+
+Pocetni   niz: P[1,4] P[2,3] P[3,3] P[1,2] P[3,4] P[2,3] P[3,4]
+Rastuci   niz: P[1,2] P[1,4] P[2,3] P[2,3] P[3,3] P[3,4] P[3,4]
+Opadajuci niz: P[3,4] P[3,4] P[3,3] P[2,3] P[2,3] P[1,4] P[1,2]

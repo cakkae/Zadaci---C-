@@ -1,0 +1,21 @@
+% tekst2t <tekst2.h
+  !=  #include  &t)  ((tks  ()  ();  (1);  (const  (i<0  (int  (int,
+  (istream&,  (ne  (ostream&  (t);  (t.tks)  (t.tks->niz)  (this  *niz;
+  *posl;  *pret;  *prvi,  *sled,  *this  *this;  *tks;  +  -  //  0)
+  0;  :  <<  <cstdlib>  <cstring>  <iostream>  =  ?  Citanje
+  Definicija  Dodavanje  Dodela  Duzina  Element  Inicijalizacija:
+  Kopiranje  Mesto  Pisanje  Podniz  Pokazivac  Pokazivaci  Spajanje
+  Spisak  Tekst  Tekst&  Tekst&);  Tekst&,  Tks  Ukupan  Unistavanje
+  Unistavanje.  Znak  brisi  broj  broj;  char  char&  char*);  class
+  const  const;  da  drugim  exit  friend  i  i)  if  int  int)
+  istream&  it  it,  it;  kao  klase  kopiraj  kor;  koriscenja  len
+  len(*this)<=i)  liste  moze  na  namespace  nisku.  nizom  operator%
+  operator()  operator+  operator+=  operator<<  operator=  operator>>
+  operator[]  ostream&  podniza.  pokazivac  pokazivaci  poslednji
+  prazan  prethodni  promeni).  prvi  public:  return  se  sledeci
+  spisak  static  std;  stedljive  strlen  struct  svih  t)  t)//
+  t.tks  t.tks)  t.tks->niz;  t;  tekst,  tekst.  tekst2.h  teksta,
+  teksta.  tekstom.  tekstova.  tekstova:  tekstu  tks  tks->kor++;
+  tks->niz[i];  u  ukupno  using  void  vrednosti.  znakova,  {  ||  }
+  };  ~Tekst
+  

@@ -1,0 +1,5 @@
+% CC ugaot.C ugao.C -o ugaot
+% ugaot
+Prvi  ugao [rad]? 1
+Drugi ugao [rad]? 3
+Srednja vrednost= 2 (114:35:29)

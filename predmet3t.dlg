@@ -1,0 +1,33 @@
+% CC predmet3t.C sklop.C -o predmet3t
+% predmet3t <predmet3t.pod
+
+Procitano:
+
+Sfera/1 (2;2.5) V=36.8155 Q=73.631
+
+Kvadar/2 (5;2,3,4) V=24 Q=120
+
+Sklop/3 [
+  Sfera/4 (1;0.5)
+  Kvadar/5 (0.5;0.2,0.3,0.4)
+] V=0.318524 Q=0.306524
+
+Sklop/6 [
+  Kvadar/7 (3;1,0.3,0.4)
+  Sklop/8 [
+    Sklop/9 [
+      Sfera/10 (1;0.2)
+      Kvadar/11 (5;0.2,3,4)
+    ]
+    Kvadar/12 (0.5;0.2,1,0.2)
+  ]
+] V=2.57885 Q=12.3988
+
+
+Najvecu zapreminu ima:
+
+Sfera/1 (2;2.5)
+
+Najvecu tezinu ima:
+
+Kvadar/2 (5;2,3,4)

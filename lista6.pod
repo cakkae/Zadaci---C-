@@ -1,0 +1,7 @@
+5 petak
+2 utorak
+7 nedelja
+6 subota
+1 ponedeljak
+3 sreda
+4 cetvrtak

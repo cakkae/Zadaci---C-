@@ -1,0 +1,24 @@
+% CC linijat.C tacka5.C linija.C izlomljena.C -o linijat
+% linijat 3
+Vrsta (D, I, P)? d
+A? 1 1
+B? 2 2
+Vrsta (D, I, P)? i
+Broj temena? 3
+1. teme? 0 0
+2. teme? 0 2
+3. teme? 2 0
+Vrsta (D, I, P)? x
+*** Nepoznata vrsta linije!
+Vrsta (D, I, P)? p
+Broj temena? 3
+1. teme? 0 0
+2. teme? 1 0
+3. teme? 1 1
+
+Procitano:
+1[duz: A(1,1), B(2,2)] d=1.41421
+2[izlomljena: ((0,0),(0,2),(2,0))] d=4.82843
+3[poligon: ((0,0),(1,0),(1,1))] d=3.41421
+
+Najduza: 2[izlomljena: ((0,0),(0,2),(2,0))]

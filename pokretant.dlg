@@ -1,0 +1,24 @@
+% CC pokretant.C tacka4.C -o pokretant
+% pokretant
+Broj tacaka? 3
+Koordinate tmena 0? 2 2 2
+Komponente brzine? -1 -1.2 -1.3
+Koordinate tmena 1? -2 2 0
+Komponente brzine? .5 -.6 .2
+Koordinate tmena 2? 0 0 0
+Komponente brzine? .3 .3 .3
+
+Broj koraka? 10
+Trajanje koraka? 1
+ORG   T4(0,0,0)
+
+0 T3(0.3,0.3,0.3) 0.519615
+1 T1(0,-0.4,-0.6) 0.72111
+2 T2(-0.5,0.2,0.6) 0.806226
+3 T2(0,-0.4,0.8) 0.894427
+4 T2(0.5,-1,1) 1.5
+5 T2(1,-1.6,1.2) 2.23607
+6 T2(1.5,-2.2,1.4) 3.00832
+7 T2(2,-2.8,1.6) 3.79473
+8 T2(2.5,-3.4,1.8) 4.58803
+9 T3(3,3,3) 5.19615

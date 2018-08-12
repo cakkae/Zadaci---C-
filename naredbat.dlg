@@ -1,0 +1,22 @@
+% CC naredbat.C naredba.C sekvenca.C ciklus.C prom.C -o naredbat
+% naredbat
+Program:
+{
+  (i=0);
+  (f=1);
+  while((n-i))
+    {
+      (i=(i+1));
+      (f=(f*i));
+    }
+}
+
+n? 0
+f= 1
+n? 4
+f= 24
+n? 8
+f= 40320
+n? 10
+f= 3.6288e+06
+n? -1
